@@ -39,7 +39,7 @@ I would imporve the life of player and add different patterns to make it more co
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![Walkthrough.gif](your-link-here)
+![](Walkthrough.gif)
 
 
 ## Reflection Questions
